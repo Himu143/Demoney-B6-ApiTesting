@@ -1,11 +1,11 @@
 # Demoney-B6-ApiTesting
 ## How to run this project 
-  -clone this project
-  -give this command '''npm i''' and ''' npm run report''''
+  - clone this project
+  - give this command '''npm i''' and ''' npm run report''''
   
 ## Technology used
-  -Postman
-  -Newman
+  - Postman
+  - Newman
 
 ## Documentation link
   - https://api.postman.com/collections/19869486-3600a7bc-9101-4e77-a37f-a3a981d256a7?access_key=PMAT-01GQ4ENSA88M2YE8AQZEHS01YC
